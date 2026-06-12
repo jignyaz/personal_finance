@@ -1,6 +1,13 @@
 # 💰 Personal Finance Dashboard
 
 A full-stack **AI-powered personal finance management platform** built with React + FastAPI. Features intelligent expense forecasting using a Master Stacking Ensemble (ARIMA + ETS + LSTM + GRU), a Gemini-powered financial chatbot, and a BYOK (Bring Your Own Key) architecture with AES-256 encryption.
+> 📄 This project is the subject of an ongoing IEEE research paper on hybrid ensemble 
+> forecasting for personal expense prediction.
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100-green)]()
+[![React](https://img.shields.io/badge/React-19-blue)]()
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL3.0-yellow)]()
 
 ---
 
@@ -116,7 +123,7 @@ personal_finance/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/personal_finance.git
+git clone https://github.com/jignyaz/personal_finance.git
 cd personal_finance
 ```
 
